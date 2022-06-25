@@ -1,0 +1,7 @@
+HOST=localhost
+PORT_NO=3306
+DB_NAME=project_1
+USERNAME=root
+PASSWORD_FILE=file:///home/saif/project_1/env/sqoop.pwd
+OP_DIR=/user/saif/project_1/day
+

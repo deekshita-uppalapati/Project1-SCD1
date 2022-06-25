@@ -1,0 +1,41 @@
+sql insertion  and updation successfully executed at 2022-06-23 19:45:14
+sqoop imp job successfully executed at 2022-06-23 19:45:14
+hive scd successfully executed at 2022-06-23 19:45:14
+MySQL day_recol table truncation failed!!! at 2022-06-23 19:45:14 
+sql insertion  and updation successfully executed at 2022-06-23 19:49:43
+sqoop imp job successfully executed at 2022-06-23 19:49:43
+hive scd successfully executed at 2022-06-23 19:49:43
+MySQL day_recol table truncation failed!!! at 2022-06-23 19:49:43 
+sql insertion  and updation successfully executed at 2022-06-23 19:54:52
+sqoop imp job successfully executed at 2022-06-23 19:54:52
+hive scd successfully executed at 2022-06-23 19:54:52
+MySQL day_recol table successfully truncated at 2022-06-23 19:54:52
+sqoop exp job successfully executed at 2022-06-23 19:54:52
+sql comparison successfully executed at 2022-06-23 19:54:52
+successfully archived at 2022-06-23 19:54:52
+******************************************************************************************************
+sql insertion  and updation successfully executed at 2022-06-23 20:06:42
+sqoop imp job successfully executed at 2022-06-23 20:06:42
+hive scd successfully executed at 2022-06-23 20:06:42
+MySQL day_recol table successfully truncated at 2022-06-23 20:06:42
+sqoop exp job successfully executed at 2022-06-23 20:06:42
+sql comparison successfully executed at 2022-06-23 20:06:42
+successfully archived at 2022-06-23 20:06:42
+******************************************************************************************************
+sql commands failed  at 2022-06-23 20:19:35 
+sql insertion  and updation successfully executed at 2022-06-23 20:21:40
+sqoop imp job successfully executed at 2022-06-23 20:21:40
+hive scd successfully executed at 2022-06-23 20:21:40
+MySQL day_recol table successfully truncated at 2022-06-23 20:21:40
+sqoop exp job successfully executed at 2022-06-23 20:21:40
+sql comparison successfully executed at 2022-06-23 20:21:40
+successfully archived at 2022-06-23 20:21:40
+******************************************************************************************************
+sql insertion  and updation successfully executed at 2022-06-23 20:24:53
+sqoop imp job successfully executed at 2022-06-23 20:24:53
+hive scd successfully executed at 2022-06-23 20:24:53
+MySQL day_recol table successfully truncated at 2022-06-23 20:24:53
+sqoop exp job successfully executed at 2022-06-23 20:24:53
+sql comparison successfully executed at 2022-06-23 20:24:53
+successfully archived at 2022-06-23 20:24:53
+******************************************************************************************************

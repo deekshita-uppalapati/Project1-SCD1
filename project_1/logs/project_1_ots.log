@@ -1,0 +1,20 @@
+sql commands failed  at 2022-06-23 19:09:10 
+sql commands failed  at 2022-06-23 19:10:32 
+sql commands failed  at 2022-06-23 19:10:47 
+sql successfully executed at 2022-06-23 19:12:30
+sqoop imp job  failed  at 2022-06-23 19:12:30 
+sql successfully executed at 2022-06-23 19:16:01
+sqoop imp job successfully created at 2022-06-23 19:16:01
+sqoop hive ots  failed  at 2022-06-23 19:16:01 
+sql successfully executed at 2022-06-23 19:17:57
+sqoop imp job successfully created at 2022-06-23 19:17:57
+hive ots successfully executed at 2022-06-23 19:17:57
+sqoop exp job successfully created at 2022-06-23 19:17:57
+sql successfully executed at 2022-06-23 20:17:28
+sqoop imp job successfully created at 2022-06-23 20:17:28
+hive ots successfully executed at 2022-06-23 20:17:28
+sqoop exp job  failed  at 2022-06-23 20:17:28 
+sql successfully executed at 2022-06-23 20:19:14
+sqoop imp job successfully created at 2022-06-23 20:19:14
+hive ots successfully executed at 2022-06-23 20:19:14
+sqoop exp job successfully created at 2022-06-23 20:19:14

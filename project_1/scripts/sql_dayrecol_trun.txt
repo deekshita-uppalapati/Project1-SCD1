@@ -1,0 +1,3 @@
+use project_1;
+
+truncate table day_recol;
